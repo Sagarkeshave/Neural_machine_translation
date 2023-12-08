@@ -18,12 +18,16 @@ Ran locally using streamlit UI
 </br>
 ![pic1](DEMO/nmt11.png)
 
-<br>
-![2](DEMO/nmt12.png)
+</br>
+
+![pic1](DEMO/nmt12.png)
+
 <br>
 
 ![3](DEMO/nmt13.png)
+
 <br>
+
 ## Results
 
 <table style="width:100%;text-align:left"> 
