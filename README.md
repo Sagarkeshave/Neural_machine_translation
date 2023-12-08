@@ -14,7 +14,8 @@ It uses tab-delimited bilingual sentence pairs to train predictive language mode
 
 ## streamlit UI
 Ran locally using streamlit UI
-<br>
+</br>
+</br>
 ![pic1](DEMO/nmt11.png)
 
 <br>
